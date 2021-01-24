@@ -1,0 +1,11 @@
+.d-flex
+{
+    display: flex;
+}
+
+#placement-nav
+{
+    flex-direction: space-around;
+    justify-content: flex-end;
+}
+
